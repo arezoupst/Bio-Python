@@ -4,7 +4,7 @@ This is a Python library for performing sequence analysis using the BioPython pa
 
 To install the package, run the following command:
 
-pip install biopython-sequence-analysis
+pip install biopython
 
 ## Usage
 
@@ -15,8 +15,9 @@ The `parse_fasta` function can be used to parse a FASTA file and return a dictio
 ### Calculating sequence statistics
 The calculate_statistics function can be used to calculate various statistics for a sequence, such as its length, GC content, and molecular weight. Here's an example of how to use it:
 
-from biopython_sequence_analysis import calculate_statistics
+from Bio.SeqUtils import GC 
 
-sequence = "ATCGATCGATCG"
-stats = calculate_statistics(sequence)
-print(stats)
+nucleotide = Seq("GACTGACTTCGA",IUPAC.unambiguous_dna) 
+
+GC(nucleotide)
+
