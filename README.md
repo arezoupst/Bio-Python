@@ -5,7 +5,7 @@ This repository contains a collection of Biopython-based tools and tutorials for
 ## **Project Structure**
 - **data/**: Contains example datasets like FASTA files (e.g., chimpanzee mRNA).
 - **notebooks/**: Jupyter Notebooks for demonstrating projects and including examples.
-- **tools/**: Python scripts implementing bioinformatics tools using Biopython(Mostly tutorial).
+- **tools/**: Python scripts implementing and tutoring bioinformatics tools using Biopython.
 
 ## **Features**
 - **Sequence Manipulation**: Reverse complement, transcription, translation, GC content calculation.
