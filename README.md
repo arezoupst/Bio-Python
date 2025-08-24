@@ -30,39 +30,39 @@ This repository contains a collection of Biopython-based tools and tutorials for
    - Example alignment of nucleotide sequences (chimpanzee mRNA vs. human mRNA).
    - Simple alignment visualization.
 
-## **Simple Notebook Projects**
+## **Simple Python Projects**
 
-### 1. **Chimpanzee mRNA GC Content Analysis** (`projects/01_chimpanzee_mrna_gc_analysis.ipynb`)
+### 1. **Chimpanzee mRNA GC Content Analysis** (`projects/01_chimpanzee_mrna_gc_analysis.py`)
    - Simple NCBI search for chimpanzee mRNA
    - Basic GC content analysis
    - Clean visualization
 
-### 2. **Nucleotide Search and Retrieval** (`projects/02_nucleotide_search_retrieval.ipynb`)
+### 2. **Nucleotide Search and Retrieval** (`projects/02_nucleotide_search_retrieval.py`)
    - Simple Entrez database search
    - Basic sequence retrieval
    - FASTA export
 
-### 3. **Protein Structure Analysis** (`projects/03_protein_structure_analysis.ipynb`)
+### 3. **Protein Structure Analysis** (`projects/03_protein_structure_analysis.py`)
    - Simple PDB structure download
    - Basic structure analysis
    - Clean visualization
 
-### 4. **Pairwise Sequence Alignment** (`projects/04_pairwise_sequence_alignment.ipynb`)
+### 4. **Pairwise Sequence Alignment** (`projects/04_pairwise_sequence_alignment.py`)
    - Simple global and local alignment
    - Similarity calculations
    - Matrix visualization
 
-### 5. **Metagenomics Analysis** (`projects/05_metagenomics_analysis.ipynb`)
+### 5. **Metagenomics Analysis** (`projects/05_metagenomics_analysis.py`)
    - Simple quality control
    - Basic GC content analysis
    - Simple classification
 
 ## **What Makes This Clean & Simple**
 - **Preserves Your Original Work**: All your original projects and notebooks are maintained as tutorials
-- **Simple Notebook Projects**: 5 easy-to-understand notebooks based on your work
+- **Simple Python Projects**: 5 easy-to-understand Python scripts based on your work
 - **Clean Code**: Well-organized but not over-engineered
 - **Easy to Understand**: Simple functions and clear documentation
-- **Academic Ready**: Suitable for PhD applications without being overwhelming
+- **Professional Quality**: Well-structured and maintainable
 
 ## **Requirements**
 To install the required Python packages, run:
@@ -92,19 +92,19 @@ jupyter lab
 # They work exactly as before, just cleaner
 ```
 
-### Simple Project Notebooks
+### Simple Python Projects
 ```python
-# Open any notebook in projects/ directory
-# Each notebook is self-contained and easy to follow
+# Run any Python script in projects/ directory
+# Each script is self-contained and easy to follow
 # Based on your original work but simplified
 ```
 
 ## **Repository Features**
 - **Keeps It Simple**: No complex software architecture
-- **Notebook-Based**: Everything in easy-to-understand Jupyter notebooks
+- **Python Scripts**: Everything in easy-to-understand Python scripts
 - **Your Original Work**: Completely preserved as tutorials
-- **Simple Projects**: 5 clean notebooks based on your work
-- **Academic Ready**: Professional but not overwhelming
+- **Simple Projects**: 5 clean Python scripts based on your work
+- **Professional Quality**: Well-structured and maintainable
 
 ## **Contributing**
 Contributions are welcome! Please feel free to submit a Pull Request.

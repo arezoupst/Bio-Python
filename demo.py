@@ -12,7 +12,7 @@ def print_header():
     print("=" * 70)
     print("🐍 Biopython Tools - Clean & Simple Repository")
     print("=" * 70)
-    print("📚 Perfect for Bioinformatics PhD Applications!")
+    print("📚 Professional Bioinformatics Repository!")
     print("=" * 70)
 
 def show_repository_structure():
@@ -94,7 +94,7 @@ def show_features():
         "✅ Simple Python Scripts - 5 easy-to-understand scripts based on your work",
         "✅ Clean Code - Well-organized but not over-engineered",
         "✅ Easy to Understand - Simple functions and clear documentation",
-        "✅ Academic Ready - Suitable for PhD applications without being overwhelming"
+        "✅ Professional Quality - Well-structured and maintainable"
     ]
     
     for feature in features:
@@ -111,7 +111,7 @@ def main():
     show_features()
     
     print("\n" + "=" * 70)
-    print("🎯 Ready for your PhD application!")
+    print("🎯 Ready to use!")
     print("   Simple, clean, and professional!")
     print("=" * 70)
 
