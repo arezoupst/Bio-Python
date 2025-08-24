@@ -5,10 +5,10 @@ This repository contains a collection of Biopython-based tools and tutorials for
 ## **Project Structure**
 - **data/**: Contains example datasets like FASTA files (e.g., chimpanzee mRNA).
 - **notebooks/**: Jupyter Notebooks for demonstrating projects and including examples.
-- **Tools/**: Python scripts implementing and tutoring bioinformatics tools using Biopython.
-- **Example Projects/**: Original projects including chimpanzee analysis and database usage.
+- **Tools & Examples/**: Your original bioinformatics tools and projects (chimpanzee, databases, etc.).
+- **projects/**: Simple notebook versions of your original projects (5 projects).
 
-## **Original Projects (Enhanced but Simple)**
+## **Original Projects (Preserved as Tutorials)**
 
 ### 1. **Chimpanzee mRNA GC Content Analysis**:
    - Retrieve chimpanzee mRNA sequences using Entrez.
@@ -30,26 +30,36 @@ This repository contains a collection of Biopython-based tools and tutorials for
    - Example alignment of nucleotide sequences (chimpanzee mRNA vs. human mRNA).
    - Simple alignment visualization.
 
-## **Simple Notebook Enhancements**
+## **Simple Notebook Projects**
 
-### 5. **Sequence Analysis** (`notebooks/01_sequence_analysis.ipynb`)
-   - Basic sequence manipulation and analysis
-   - Simple statistical analysis and visualization
-   - Clean, readable code in notebook format
+### 1. **Chimpanzee mRNA GC Content Analysis** (`projects/01_chimpanzee_mrna_gc_analysis.ipynb`)
+   - Simple NCBI search for chimpanzee mRNA
+   - Basic GC content analysis
+   - Clean visualization
 
-### 6. **Database Integration** (`notebooks/02_database_integration.ipynb`)
-   - Simple interface to NCBI databases
-   - Basic search and retrieval functions
-   - Clean error handling in notebook format
+### 2. **Nucleotide Search and Retrieval** (`projects/02_nucleotide_search_retrieval.ipynb`)
+   - Simple Entrez database search
+   - Basic sequence retrieval
+   - FASTA export
 
-### 7. **Metagenomics Analysis** (`notebooks/03_metagenomics_analysis.ipynb`)
-   - Basic metagenomic analysis tools
-   - Simple quality control and classification
-   - Clean visualization in notebook format
+### 3. **Protein Structure Analysis** (`projects/03_protein_structure_analysis.ipynb`)
+   - Simple PDB structure download
+   - Basic structure analysis
+   - Clean visualization
+
+### 4. **Pairwise Sequence Alignment** (`projects/04_pairwise_sequence_alignment.ipynb`)
+   - Simple global and local alignment
+   - Similarity calculations
+   - Matrix visualization
+
+### 5. **Metagenomics Analysis** (`projects/05_metagenomics_analysis.ipynb`)
+   - Simple quality control
+   - Basic GC content analysis
+   - Simple classification
 
 ## **What Makes This Clean & Simple**
-- **Preserves Your Original Work**: All your original projects and notebooks are maintained
-- **Notebook-Based**: Everything is in easy-to-understand Jupyter notebooks
+- **Preserves Your Original Work**: All your original projects and notebooks are maintained as tutorials
+- **Simple Notebook Projects**: 5 easy-to-understand notebooks based on your work
 - **Clean Code**: Well-organized but not over-engineered
 - **Easy to Understand**: Simple functions and clear documentation
 - **Academic Ready**: Suitable for PhD applications without being overwhelming
@@ -76,24 +86,24 @@ jupyter lab
 
 ## **Usage Examples**
 
-### Your Original Chimpanzee Analysis
+### Your Original Tutorials
 ```python
-# Use your existing notebooks in Example Projects/
+# Use your existing notebooks in Tools & Examples/
 # They work exactly as before, just cleaner
 ```
 
-### Simple Enhanced Notebooks
+### Simple Project Notebooks
 ```python
-# Open the notebooks in Jupyter Lab
+# Open any notebook in projects/ directory
 # Each notebook is self-contained and easy to follow
-# No complex imports or installations needed
+# Based on your original work but simplified
 ```
 
 ## **Repository Features**
 - **Keeps It Simple**: No complex software architecture
 - **Notebook-Based**: Everything in easy-to-understand Jupyter notebooks
-- **Your Original Work**: Completely preserved and enhanced
-- **Simple Additions**: Optional notebooks that don't change your workflow
+- **Your Original Work**: Completely preserved as tutorials
+- **Simple Projects**: 5 clean notebooks based on your work
 - **Academic Ready**: Professional but not overwhelming
 
 ## **Contributing**
