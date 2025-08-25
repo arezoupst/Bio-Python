@@ -35,7 +35,7 @@ This repository contains a collection of Biopython-based tools and tutorials for
 ### 1. **Chimpanzee mRNA GC Content Analysis** (`projects/01_chimpanzee_mrna_gc_analysis.py`)
    - Simple NCBI search for chimpanzee mRNA
    - Basic GC content analysis
-   - Clean visualization
+   - Cisualization
 
 ### 2. **Nucleotide Search and Retrieval** (`projects/02_nucleotide_search_retrieval.py`)
    - Simple Entrez database search
@@ -45,7 +45,7 @@ This repository contains a collection of Biopython-based tools and tutorials for
 ### 3. **Protein Structure Analysis** (`projects/03_protein_structure_analysis.py`)
    - Simple PDB structure download
    - Basic structure analysis
-   - Clean visualization
+   - Visualization
 
 ### 4. **Pairwise Sequence Alignment** (`projects/04_pairwise_sequence_alignment.py`)
    - Simple global and local alignment
@@ -56,13 +56,6 @@ This repository contains a collection of Biopython-based tools and tutorials for
    - Simple quality control
    - Basic GC content analysis
    - Simple classification
-
-## **What Makes This Clean & Simple**
-- **Preserves Your Original Work**: All your original projects and notebooks are maintained as tutorials
-- **Simple Python Projects**: 5 easy-to-understand Python scripts based on your work
-- **Clean Code**: Well-organized but not over-engineered
-- **Easy to Understand**: Simple functions and clear documentation
-- **Professional Quality**: Well-structured and maintainable
 
 ## **Requirements**
 To install the required Python packages, run:
